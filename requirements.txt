@@ -1,0 +1,8 @@
+coverage
+jupyterlab
+lmfit
+nose
+numpy
+pandas
+sympy
+tellurium
